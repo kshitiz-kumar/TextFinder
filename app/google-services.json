@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463691818504",
+    "firebase_url": "https://textfinder-2de97.firebaseio.com",
+    "project_id": "textfinder-2de97",
+    "storage_bucket": "textfinder-2de97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463691818504:android:e98ac3b91279cbcd",
+        "android_client_info": {
+          "package_name": "com.example.textfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463691818504-btsr1q067t17af7pe2b7qqclq6qbjpta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textfinder",
+            "certificate_hash": "6df434d357e61a650f61f09564bb30aa497b33e8"
+          }
+        },
+        {
+          "client_id": "463691818504-iuciml214v9fejlluuj52410do0c8vn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0KRfpMTfxZWh8vJgxTZ4hv8KPNWxEgOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463691818504-iuciml214v9fejlluuj52410do0c8vn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
